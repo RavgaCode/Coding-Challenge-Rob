@@ -1,0 +1,61 @@
+body{
+background-image: url(background.jpg);
+background-size: cover;
+}
+
+img{
+  width: 15%;
+  height: auto;
+}
+h1{
+  color: lightgreen;
+}
+.site{
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 70%;
+  height: 700px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+nav{
+  background-color: lightgreen;
+  padding: 10px;
+  width:80%;
+  margin:auto;
+}
+section{
+  color: white;
+  text-align: left;
+  margin-left: 10%;
+}
+p{
+  margin:0;
+}
+.carica1{
+  color:blue;
+  background-color: blue;
+  padding: 10px;
+  width:40%;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.carica2{
+  color:yellow;
+  background-color: yellow;
+  padding: 10px;
+  width:60%;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.carica3{
+  color:purple;
+  background-color: purple;
+  padding: 10px;
+  width:15%;
+  border-radius: 5px;
+  text-align: left;
+}
